@@ -3,7 +3,7 @@
 *   **Demo**: http://goo.gle/chimera-painter
 *   **Blog**: http://goo.gle/chimera-painter-blog
 
-[<img src="./images/Dino-subset.gif" alt="Subset of Dino images as a gif" width = "512"/>]
+<img src="./images/Dino-subset.gif" alt="Subset of Dino images as a gif" width = "512"/>
 
 ## Overview
 
